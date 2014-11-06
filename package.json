@@ -1,0 +1,49 @@
+{
+  "name": "passport-taobao",
+  "version": "0.0.1",
+  "description": "Taobao authentication strategy for Passport.",
+  "author": {
+    "name": "pp",
+    "email": "83997851@qq.com",
+    "url": "https://github.com/coderpp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderpp/passport-taobao.git"
+  },
+  "keywords": [
+    "node",
+    "passport",
+    "baidu"
+  ],
+  "bugs": {
+    "url": "https://github.com/coderpp/passport-taobao.git/issues"
+  },
+  "main": "./lib/passport-taobao",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport-oauth": "0.1.x"
+  },
+  "devDependencies": {
+    "vows": "0.6.x"
+  },
+  "scripts": {
+    "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
+  },
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "_id": "passport-taobao@0.0.1",
+  "_from": "passport-taobao@",
+  "_npmVersion": "1.2.32",
+  "_npmUser": {
+    "name": "pp",
+    "email": "83997851@qq.com"
+  },
+  "maintainers": [
+    {
+      "name": "pp",
+      "email": "83997851@qq.com"
+    }
+  ],
+  "homepage": "https://github.com/coderpp/passport-taobao"
+}
