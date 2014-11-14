@@ -1,6 +1,6 @@
 {
   "name": "passport-taobao",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Taobao authentication strategy for Passport.",
   "author": {
     "name": "pp",
@@ -14,7 +14,7 @@
   "keywords": [
     "node",
     "passport",
-    "baidu"
+    "taobao"
   ],
   "bugs": {
     "url": "https://github.com/coderpp/passport-taobao.git/issues"
@@ -32,7 +32,7 @@
   },
   "license": "BSD",
   "readmeFilename": "README.md",
-  "_id": "passport-taobao@0.0.1",
+  "_id": "passport-taobao@0.0.3",
   "_from": "passport-taobao@",
   "_npmVersion": "1.2.32",
   "_npmUser": {
