@@ -25,6 +25,7 @@ these credentials and calls `done` providing a user, as well as `options`
 specifying a client ID, client secret, and callback URL.
 
     passport.use(new TaobaoStrategy({
+        sandbox: true, // set true to use taobao sandbox environment, default false
         clientID: client_id,
         clientSecret: client_secret,
         callbackURL: "http://127.0.0.1:3000/auth/taobao/callback"
